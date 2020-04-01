@@ -1,0 +1,8 @@
+ Volume in drive C is OSDisk
+ Volume Serial Number is 28AD-E056
+
+ Directory of C:\Users\ecfgilr\Desktop\myproject
+
+04/01/2020  02:57 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               0 Dir(s)  14,807,678,976 bytes free
